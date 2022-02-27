@@ -28,7 +28,7 @@ def main():
     safety_label = {"high":0,"med":1,"low":2}
     class_label = {0:"good",1:"acceptable",2:"very good",3:"unacceptable"}
 
-
+# ConeComment
 
     if act == "Predictive Analystics":
 
